@@ -181,5 +181,5 @@ pattern = "**/{*.less,*.scss,*.css}"
 requiredFiles = [".replit", "replit.nix", ".config"]
 
 [deployment]
-publicDir = "/index.html"
+publicDir = "/"
 deploymentTarget = "static"
